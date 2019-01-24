@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Firebase Auth Phone Number</string>
+
+    <string name="SmsMessage">Firebase Auth Phone Number wil send SMS message (carrier charge may apply) to verify your phone number. Enter your country code and phone number</string>
+    <string name="Otp_message">We will send an One Time Password on the above given number</string>
+    <string name="verify_message">Verify your number</string>
+    <string name="verification">Please enter the Verification code sent on the given number</string>
+    <string name="received">Could not received code?</string>
+
+    <string name="smsMessageTwo">Please provide your name and an optional profile photo</string>
+
+
+</resources>

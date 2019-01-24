@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="black">#000</color>
+    <color name="btnSignin">#1ABC9C</color>
+    <color name="btnSignup">#F1C40F</color>
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="lightgray">#ededed</color>
+    <color name="deeppurple">#7c4dff</color>
+    <color name="yello">#ffb300</color>
+    <color name="green">#00bfa5</color>
+    <color name="pinkk">#861038</color>
+    <color name="darkblue">#23283a</color>
+    <color name="testcolorblue">#152b38</color>
+    <color name="pink">#fe104d</color>
+
+    <color name="hint_color">#ab060606</color>
+    <color name="view_color">#3d060606</color>
+    <color name="background_color">#17A589</color>
+
+    <color name="overlayActionBar">#7f333639</color>
+
+    <color name="jj">#34495E</color>
+
+    <color name="one">#1AA494</color>
+    <color name="two">#01ACFF</color>
+    <color name="three">#0F6679</color>
+    <color name="four">#00FF0B</color>
+    <color name="five">#00FFFE</color>
+</resources>
